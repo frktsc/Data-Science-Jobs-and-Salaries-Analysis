@@ -1,1 +1,3 @@
-# Data-Science-Jobs-and-Salaries-Analysis
+# PROJECT DESCRIPTION
+
+This project delves into global salary trends within data-related occupations, analyzing a rich dataset to uncover how factors like job title, geographic location, experience level, and employment type influence compensation. By leveraging advanced data visualization tools, the study highlights significant salary disparities across different regions and job categories, offering insights that are vital for professionals navigating the data science job market. This comprehensive analysis not only helps understand current trends but also aids in predicting future salary trajectories in the evolving field of data science.
